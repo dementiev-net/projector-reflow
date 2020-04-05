@@ -1,6 +1,6 @@
 // ----------------------------------------------------------------------------
 // Reflow Oven Controller
-// (c) 2019 PHPScript <info@phpscript.ru>
+// (c) 2019 Дмитрий Дементьев <dementiev@me.com>
 // (c) 2017 David Sanz Kirbis
 // (c) 2014 Karl Pitrich <karl@pitrich.com>
 // (c) 2012-2013 Ed Simmons
