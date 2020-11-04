@@ -89,7 +89,7 @@ Arduino Nano распаяна прямо на плату. Также распа�
 
 GitHub автора: [https://github.com/dasaki/nanoReflowController](https://github.com/dasaki/nanoReflowController)
 
-Связаться со мной: dementiev@me.com
+Связаться со мной: info@dementiev.net
 
 ##### Лицензия: «Attribution-NonCommercial-ShareAlike»<br>(«Атрибуция — Некоммерческое использование — На тех же условиях») 4.0 Всемирная
 
